@@ -133,7 +133,7 @@ Ensure you have the following installed:
 🤝 **Contributing**
 ------------------------------
 
-We welcome contributions!
+We welcome contributions so feel free to contribute nad make it better so that it can meet its vision!
 
 To contribute:
 1.  **Fork** the repository.
