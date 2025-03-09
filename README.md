@@ -101,8 +101,7 @@ Ensure you have the following installed:
 1.  **Sign up or log in** to access features.
 2.  **Donate books** by filling in the required details.
 3.  **Search & borrow books** available in the library.
-4.  **Track book delivery** once your request is approved.
-5.  **Manage book requests** via the librarian dashboard.
+4.  **Manage book requests** via the librarian dashboard.
 
 🔑 **API Endpoints (Backend)**
 ------------------------------
